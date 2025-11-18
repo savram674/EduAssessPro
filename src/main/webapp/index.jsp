@@ -60,7 +60,7 @@
 <body>
     <div class="container">
         <h1>Edu Assessment Pro</h1>
-        <p>Welcome! Get started with registration or login to continue.</p>
+        <p>Welcome! Get started with login and registration  process.</p>
 
         <a href="registration.jsp" class="register">Register for Exam</a>
         <a href="login.jsp" class="login">Login</a>
